@@ -94,9 +94,9 @@
 92. Insufficient Backup and Recovery Procedures
 93. Broken Object-Level Authorization
 94. Broken Function-Level Authorization
-Improperly Implemented Password Hashing
-Server-Side Includes (SSI) Injection
-Insufficient Secure Coding Practices
-Misconfigured Security Headers
-Excessive Data Exposure
-Application Layer Denial-of-Service (DoS)
+95. Improperly Implemented Password Hashing
+96. Server-Side Includes (SSI) Injection
+97. Insufficient Secure Coding Practices
+98. Misconfigured Security Headers
+99. Excessive Data Exposure
+100. Application Layer Denial-of-Service (DoS)
