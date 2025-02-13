@@ -1,3 +1,5 @@
+# vulnerabilities-Name-List
+
 1. SQL Injection
 2. Cross-Site Scripting (XSS)
 3. Cross-Site Request Forgery (CSRF)
@@ -41,8 +43,8 @@
 41. Insufficient Authorization
 42. Man-in-the-Middle (MitM)
 43. Credential Stuffing
-44. Open Redirects
-45. Information Disclosure
+## 44. Open Redirects
+## 45. Information Disclosure
 46. Security through Obscurity
 47. Password Spraying
 48. Insecure Cryptographic Storage
