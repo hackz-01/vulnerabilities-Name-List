@@ -1,97 +1,97 @@
-SQL Injection
-Cross-Site Scripting (XSS)
-Cross-Site Request Forgery (CSRF)
-Insecure Deserialization
-Security Misconfiguration
-Broken Authentication
-Broken Access Control
-Sensitive Data Exposure
-XML External Entities (XXE)
-Directory Traversal
-Command Injection
-File Inclusion (Local/Remote)
-Insecure Direct Object References (IDOR)
-Server-Side Request Forgery (SSRF)
-Unvalidated Redirects and Forwards
-Insufficient Logging and Monitoring
-Using Components with Known Vulnerabilities
-Cross-Site Script Inclusion (XSSI)
-Session Fixation
-Session Hijacking
-Buffer Overflow
-Integer Overflow
-Race Condition
-LDAP Injection
-OS Command Injection
-Path Traversal
-HTTP Response Splitting
-HTTP Parameter Pollution
-Cookie Poisoning
-Clickjacking
-CRLF Injection
-XML Injection
-XPATH Injection
-Malicious File Upload
-DNS Rebinding
-Remote Code Execution (RCE)
-Insufficient Transport Layer Protection
-Clickjacking
-Business Logic Vulnerability
-API Security Issues
-Insufficient Authorization
-Man-in-the-Middle (MitM)
-Credential Stuffing
-Open Redirects
-Information Disclosure
-Security through Obscurity
-Password Spraying
-Insecure Cryptographic Storage
-Weak Password Policies
-Improper Error Handling
-Improper Input Validation
-Improper Output Encoding
-Improper File Permissions
-Unrestricted File Upload
-Weak Session Management
-Plaintext Transmission of Sensitive Information
-Failure to Restrict URL Access
-Improper Resource Shutdown or Release
-Cross-Origin Resource Sharing (CORS) Misconfiguration
-Insufficient Session Expiration
-Server-Side Template Injection
-Blind SQL Injection
-Reflected XSS
-Stored XSS
-DOM-based XSS
-HTTP Host Header Injection
-Insufficient Authentication
-Insecure Password Recovery Mechanisms
-Cache Poisoning
-Unrestricted Redirects
-Unvalidated Forwards
-Improper Access Control
-Improper Privilege Management
-Weak Password Reset Mechanism
-Insecure Third-Party Components
-Client-Side Injection
-DOM Manipulation
-Function Level Access Control
-Insufficient Cryptographic Algorithms
-Time-Based Blind SQL Injection
-Content Security Policy (CSP) Bypass
-Form Hijacking
-Insufficient Data Encryption
-Password Exposure
-API Rate Limiting Issues
-Lack of Security Controls
-Ineffective Logging and Monitoring
-Improper Certificate Validation
-Subdomain Takeover
-Use of Hard-coded Credentials
-Insecure Cloud Storage
-Insufficient Backup and Recovery Procedures
-Broken Object-Level Authorization
-Broken Function-Level Authorization
+1. SQL Injection
+2. Cross-Site Scripting (XSS)
+3. Cross-Site Request Forgery (CSRF)
+4. Insecure Deserialization
+5. Security Misconfiguration
+6. Broken Authentication
+7. Broken Access Control
+8. Sensitive Data Exposure
+9. XML External Entities (XXE)
+10. Directory Traversal
+11. Command Injection
+12. File Inclusion (Local/Remote)
+13. Insecure Direct Object References (IDOR)
+14. Server-Side Request Forgery (SSRF)
+15. Unvalidated Redirects and Forwards
+16. Insufficient Logging and Monitoring
+17. Using Components with Known Vulnerabilities
+18. Cross-Site Script Inclusion (XSSI)
+19. Session Fixation
+20. Session Hijacking
+21. Buffer Overflow
+22. Integer Overflow
+23. Race Condition
+24. LDAP Injection
+25. OS Command Injection
+26. Path Traversal
+27. HTTP Response Splitting
+28. HTTP Parameter Pollution
+29. Cookie Poisoning
+30. Clickjacking
+31. CRLF Injection
+32. XML Injection
+33. XPATH Injection
+34. Malicious File Upload
+35. DNS Rebinding
+36. Remote Code Execution (RCE)
+37. Insufficient Transport Layer Protection
+38. Clickjacking
+39. Business Logic Vulnerability
+40. API Security Issues
+41. Insufficient Authorization
+42. Man-in-the-Middle (MitM)
+43. Credential Stuffing
+44. Open Redirects
+45. Information Disclosure
+46. Security through Obscurity
+47. Password Spraying
+48. Insecure Cryptographic Storage
+49. Weak Password Policies
+50. Improper Error Handling
+51. Improper Input Validation
+52. Improper Output Encoding
+53. Improper File Permissions
+54. Unrestricted File Upload
+55. Weak Session Management
+56. Plaintext Transmission of Sensitive Information
+57. Failure to Restrict URL Access
+58. Improper Resource Shutdown or Release
+59. Cross-Origin Resource Sharing (CORS) Misconfiguration
+60. Insufficient Session Expiration
+61. Server-Side Template Injection
+62. Blind SQL Injection
+63. Reflected XSS
+64. Stored XSS
+65. DOM-based XSS
+66. HTTP Host Header Injection
+67. Insufficient Authentication
+68. Insecure Password Recovery Mechanisms
+69. Cache Poisoning
+70. Unrestricted Redirects
+71. Unvalidated Forwards
+72. Improper Access Control
+73. Improper Privilege Management
+74. Weak Password Reset Mechanism
+75. Insecure Third-Party Components
+76. Client-Side Injection
+77. DOM Manipulation
+78. Function Level Access Control
+79. Insufficient Cryptographic Algorithms
+80. Time-Based Blind SQL Injection
+81. Content Security Policy (CSP) Bypass
+82. Form Hijacking
+83. Insufficient Data Encryption
+84. Password Exposure
+85. API Rate Limiting Issues
+86. Lack of Security Controls
+87. Ineffective Logging and Monitoring
+88. Improper Certificate Validation
+89. Subdomain Takeover
+90. Use of Hard-coded Credentials
+91. Insecure Cloud Storage
+92. Insufficient Backup and Recovery Procedures
+93. Broken Object-Level Authorization
+94. Broken Function-Level Authorization
 Improperly Implemented Password Hashing
 Server-Side Includes (SSI) Injection
 Insufficient Secure Coding Practices
