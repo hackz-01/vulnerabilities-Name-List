@@ -2,7 +2,7 @@
 
 1. SQL Injection
 ## 2. Cross-Site Scripting (XSS)
-### FusionXss - (XSS Scanner Tool is a powerful tool for detect XSS vulnerabilities on target websites.) - 2. Cross-Site Scripting (XSS)
+### EasyXss - (EasyXss is designed to help identify and validate XSS vulnerabilities through GET requests.) - 2. Cross-Site Scripting (XSS)
 
 3. Cross-Site Request Forgery (CSRF)
 4. Insecure Deserialization
