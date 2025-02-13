@@ -1,0 +1,100 @@
+SQL Injection
+Cross-Site Scripting (XSS)
+Cross-Site Request Forgery (CSRF)
+Insecure Deserialization
+Security Misconfiguration
+Broken Authentication
+Broken Access Control
+Sensitive Data Exposure
+XML External Entities (XXE)
+Directory Traversal
+Command Injection
+File Inclusion (Local/Remote)
+Insecure Direct Object References (IDOR)
+Server-Side Request Forgery (SSRF)
+Unvalidated Redirects and Forwards
+Insufficient Logging and Monitoring
+Using Components with Known Vulnerabilities
+Cross-Site Script Inclusion (XSSI)
+Session Fixation
+Session Hijacking
+Buffer Overflow
+Integer Overflow
+Race Condition
+LDAP Injection
+OS Command Injection
+Path Traversal
+HTTP Response Splitting
+HTTP Parameter Pollution
+Cookie Poisoning
+Clickjacking
+CRLF Injection
+XML Injection
+XPATH Injection
+Malicious File Upload
+DNS Rebinding
+Remote Code Execution (RCE)
+Insufficient Transport Layer Protection
+Clickjacking
+Business Logic Vulnerability
+API Security Issues
+Insufficient Authorization
+Man-in-the-Middle (MitM)
+Credential Stuffing
+Open Redirects
+Information Disclosure
+Security through Obscurity
+Password Spraying
+Insecure Cryptographic Storage
+Weak Password Policies
+Improper Error Handling
+Improper Input Validation
+Improper Output Encoding
+Improper File Permissions
+Unrestricted File Upload
+Weak Session Management
+Plaintext Transmission of Sensitive Information
+Failure to Restrict URL Access
+Improper Resource Shutdown or Release
+Cross-Origin Resource Sharing (CORS) Misconfiguration
+Insufficient Session Expiration
+Server-Side Template Injection
+Blind SQL Injection
+Reflected XSS
+Stored XSS
+DOM-based XSS
+HTTP Host Header Injection
+Insufficient Authentication
+Insecure Password Recovery Mechanisms
+Cache Poisoning
+Unrestricted Redirects
+Unvalidated Forwards
+Improper Access Control
+Improper Privilege Management
+Weak Password Reset Mechanism
+Insecure Third-Party Components
+Client-Side Injection
+DOM Manipulation
+Function Level Access Control
+Insufficient Cryptographic Algorithms
+Time-Based Blind SQL Injection
+Content Security Policy (CSP) Bypass
+Form Hijacking
+Insufficient Data Encryption
+Password Exposure
+API Rate Limiting Issues
+Lack of Security Controls
+Ineffective Logging and Monitoring
+Improper Certificate Validation
+Subdomain Takeover
+Use of Hard-coded Credentials
+Insecure Cloud Storage
+Insufficient Backup and Recovery Procedures
+Broken Object-Level Authorization
+Broken Function-Level Authorization
+Improperly Implemented Password Hashing
+Server-Side Includes (SSI) Injection
+Insufficient Secure Coding Practices
+Misconfigured Security Headers
+Excessive Data Exposure
+Application Layer Denial-of-Service (DoS)
