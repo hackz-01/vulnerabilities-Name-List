@@ -43,8 +43,8 @@ API Security Issues
 Insufficient Authorization
 Man-in-the-Middle (MitM)
 Credential Stuffing
-Open Redirects
-Information Disclosure
+**Open Redirects**
+**Information Disclosure**
 Security through Obscurity
 Password Spraying
 Insecure Cryptographic Storage
