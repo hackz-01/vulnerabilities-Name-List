@@ -44,7 +44,11 @@
 42. Man-in-the-Middle (MitM)
 43. Credential Stuffing
 ## 44. Open Redirects
+### OpRe - (A modern and advanced tool for hunting open redirection!) - 44. Open Redirects
+
 ## 45. Information Disclosure
+### WOGF - (WOGF is an automated tool that scans the Wayback Machine for backup files.) - 45. Information Disclosure
+
 46. Security through Obscurity
 47. Password Spraying
 48. Insecure Cryptographic Storage
@@ -100,3 +104,6 @@
 98. Misconfigured Security Headers
 99. Excessive Data Exposure
 100. Application Layer Denial-of-Service (DoS)
+
+# More Tools
+### ParamSpy - (ParamSpy is a powerful automation tool for detecting url in web applications.)
