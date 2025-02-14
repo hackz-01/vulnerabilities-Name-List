@@ -71,7 +71,9 @@
 63. Reflected XSS
 64. Stored XSS
 65. DOM-based XSS
-66. HTTP Host Header Injection
+## 66. HTTP Host Header Injection
+### XFH - XFH is a lightweight, high-performance tool for websites against header injection vulnerabilities - 66. HTTP Host Header Injection
+
 67. Insufficient Authentication
 68. Insecure Password Recovery Mechanisms
 69. Cache Poisoning
