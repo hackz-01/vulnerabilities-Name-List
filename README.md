@@ -109,3 +109,4 @@
 
 # More Tools
 ### ParamSpy - (ParamSpy is a powerful automation tool for detecting url in web applications.)
+### RoboFi - (RoboFi is a Bash tool designed to extract unique paths from archived robots.txt files of a target domain using the Wayback Machine.)
