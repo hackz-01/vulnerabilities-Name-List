@@ -2,7 +2,7 @@
 
 1. SQL Injection
 ## 2. Cross-Site Scripting (XSS)
-### XSS - (Wait For Competing) - 2. Cross-Site Scripting (XSS)
+### XSS - (Wait For Competing) - 2. Cross-Site Scripting (XSS) - https://github.com/mr-kasim-mehar/FusionXss
 
 3. Cross-Site Request Forgery (CSRF)
 4. Insecure Deserialization
@@ -10,7 +10,7 @@
 6. Broken Authentication
 7. Broken Access Control
 8. Sensitive Data Exposure
-9. XML External Entities (XXE)
+9. XML External Entities (XXE) - (NOT)
 10. Directory Traversal
 11. Command Injection
 12. File Inclusion (Local/Remote)
