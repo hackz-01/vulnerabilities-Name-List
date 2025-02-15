@@ -108,6 +108,8 @@
 98. Misconfigured Security Headers
 99. Excessive Data Exposure
 100. Application Layer Denial-of-Service (DoS)
+## 101. HTTP Methods
+### HM - (HM is a tool designed for testing HTTP methods for HTTP PUT Method To RCE) - 101. HTTP Methods
 
 # More Tools
 ### ParamSpy - (ParamSpy is a powerful automation tool for detecting url in web applications.)
