@@ -32,7 +32,9 @@
 28. HTTP Parameter Pollution
 29. Cookie Poisoning
 30. Clickjacking
-31. CRLF Injection
+## 31. CRLF Injection
+### CRLFI - (Wait For Competing but use crlfuzz) 31. CRLF Injection
+
 32. XML Injection
 33. XPATH Injection
 34. Malicious File Upload
