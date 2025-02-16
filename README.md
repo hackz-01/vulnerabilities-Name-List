@@ -13,7 +13,9 @@
 9. XML External Entities (XXE) - (NOT)
 10. Directory Traversal
 11. Command Injection
-12. File Inclusion (Local/Remote)
+## 12. File Inclusion (Local/Remote)
+### LFIH - 12. File Inclusion (Local/Remote) - Ultra-Fast LFI Scanner for Bug Bounty Testing (Hacker UI Edition)
+
 13. Insecure Direct Object References (IDOR)
 14. Server-Side Request Forgery (SSRF)
 15. Unvalidated Redirects and Forwards
